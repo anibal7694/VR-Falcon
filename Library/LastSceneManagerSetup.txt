@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Homework4_Anirudh_Balaji.unity
+  isLoaded: 1
+  isActive: 1
